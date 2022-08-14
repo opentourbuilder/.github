@@ -1,1 +1,1 @@
-The Evresi app, web interface, and API.
+The Evresi app and tour builder.
